@@ -34,7 +34,8 @@ function Home() {
         on edits made to your React components, without ever losing component
         state.
       </p>
-      <p>Here is a live edit.</p>
+      <p>Here is a live edit. This one did not trigger a refresh. Maybe because I committed directly to master branch.</p>
+      <p>Here is a 2nd live edit. This one will be pushed to master branch.</p>
       <hr className={styles.hr} />
       <div>
         <p>
